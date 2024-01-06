@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F8C8DC;
+    background-image: url(https://www.icegif.com/wp-content/uploads/2023/07/icegif-1230.gif);
+    background-repeat: round;
+    background-size: contain;
+    background-position: center;
+}
+
+img {
+    height: 250px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: 1px 1px 1px #b54c7d;
+    letter-spacing: 3px;
+    cursor: default;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
